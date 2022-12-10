@@ -21,4 +21,6 @@ console.log('Hola mundos')
 //var miPrimeraVariable = 'lala'
 
 let miPrimeraVariable = 'Mi primera variable!'
-console.log(miPrimeraVariable);
+console.log(miPrimeraVariable);  
+
+let holajaja = 4;
